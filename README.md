@@ -11,9 +11,9 @@
 1. Goa is a Best place in india and there is a  so many beaches its looks Beautiful there is a games also in ships the game name is casino there are so many things to see 
     1. there is a best hotels in Goa 
 2.  We plan your perfect Holiday in Goa,
-    2. First we take a car and go to Google map and search a route map on Goa 
+    1. First we take a car and go to Google map and search a route map on Goa 
 3.  In Goa beears are very cheep
-    3. The cost of the bear is 40 RS
+    1. The cost of the bear is 40 RS
 4. there is very cool climate
     * wether is always cool and sum times there is a rain falling
     * food ietms
