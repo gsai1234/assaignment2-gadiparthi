@@ -27,3 +27,18 @@
     * Planes
 
 [About me file](AboutMe.md)
+
+The following table describes the 4 types of food/drinks that everyone should try.<br>
+It describes the food/drink item name, location and amount of money.
+ 
+### FOOD & Drink Table
+ 
+---
+ 
+| Food/Drink Item | Location | Amount |
+|   ----------    |  -----   |   ---- | 
+| chapathi | Hyderabad | $75 |
+| stella Extra | Texas | $90 |
+|BBQ | BBQ Nation| $10 |
+| biryani | Vijayawada ST food | $20 |
+ 
