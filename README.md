@@ -41,4 +41,14 @@ It describes the food/drink item name, location and amount of money.
 | stella Extra | Texas | $90 |
 |BBQ | BBQ Nation| $10 |
 | biryani | Vijayawada ST food | $20 |
- 
+
+### Pithy Quotes
+
+---
+
+## Quotes
+
+> "Don't judge each day by the harvest you reap but by the seeds that you plant"
+>> -*robert [lous stevenson]*
+> "Friend is a gift you give yourself"
+>> -*robert lous stevenson*
