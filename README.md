@@ -52,3 +52,33 @@ It describes the food/drink item name, location and amount of money.
 >> -*robert [lous stevenson]* <br>
 > "Friend is a gift you give yourself"
 >> -*robert lous stevenson*
+
+## code fencing
+
+---
+
+If the distance is less than the radius, the line must intersect the circle at two distinct points. if the distance is equal to the radius, then the line will touch the circle. if the distance is greater than the radius, the line will lie completely outside the circle.
+
+```
+double r, a, b, c; // given as input
+double x0 = -a*c/(a*a+b*b), y0 = -b*c/(a*a+b*b);
+if (c*c > r*r*(a*a+b*b)+EPS)
+    puts ("no points");
+else if (abs (c*c - r*r*(a*a+b*b)) < EPS) {
+    puts ("1 point");
+    cout << x0 << ' ' << y0 << '\n';
+}
+else {
+    double d = r*r - c*c/(a*a+b*b);
+    double mult = sqrt (d / (a*a+b*b));
+    double ax, ay, bx, by;
+    ax = x0 + b * mult;
+    bx = x0 - b * mult;
+    ay = y0 - a * mult;
+    by = y0 + a * mult;
+    puts ("2 points");
+    cout << ax << ' ' << ay << '\n' << bx << ' ' << by << '\n';
+}
+```
+
+https://doubleroot.in/lessons/circle/intersection-line-circle-1/#:~:text=if%20the%20distance%20is%20less,lie%20completely%20outside%20the%20circle.
