@@ -49,7 +49,6 @@ It describes the food/drink item name, location and amount of money.
 ## Quotes
 
 > "Don't judge each day by the harvest you reap but by the seeds that you plant"
->> -*robert [lous stevenson]*
-<br>
+>> -*robert [lous stevenson]* <br>
 > "Friend is a gift you give yourself"
 >> -*robert lous stevenson*
